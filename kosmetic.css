@@ -1,0 +1,129 @@
+body{
+ 
+    background: url(756311769715147.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+   .kapital{
+    margin: auto;
+    margin-top: 40px;
+width: 750px;
+
+border-radius: 20px;
+    text-align: center;
+height: 120px;
+
+backdrop-filter: blur(5px); 
+    background: rgba(255, 255, 255, 0.5); 
+
+    font-family: "Abel", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 70px;
+  color: gray;
+  line-height: 2;
+}
+.container{
+    height: auto;
+    backdrop-filter: blur(5px);
+    gap: 50PX;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 5%;
+    border-radius: 20px;
+    margin-top: 50px;
+     background: rgba(255, 255, 255, 0.5); 
+}
+.text{
+    height: auto;
+ 
+  font-family: "Abel", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+color: black;
+line-height: 2;
+padding: 5px;
+border-radius: 5px;
+
+}
+.photo1{
+    background: url(diploma.jfif) center;
+    height: 480px;
+   
+    padding: center;
+    padding-top: 0%;
+    margin-top: 0px;
+   border-radius: 20px;
+    border: solid 2px black;
+    }
+    .photo2{
+        background: url(d05286c5dbd0222a6ec5da7f42d15a35.jpg) center;
+        height: 440px;
+       
+        padding: center;
+        margin-top: 60px;
+        border-radius: 20px;
+        border: solid 2px black;
+        }
+ .photo3{
+     background: url(i\ \(1\).jfif) center;
+      height: 500px;
+          
+     padding: center;
+     margin-top: 60px;
+    border-radius: 20px;
+     border: solid 2px black;
+}   
+.text1{
+    height: auto;
+    border: solid 3px gray;
+  
+    margin-bottom: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.text2{
+    height: auto;
+    border: solid 3px gray;
+   
+    margin: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.text3{
+    height: auto;
+    border: solid 3px gray;
+   
+    margin: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.text4{
+    height: auto;
+    border: solid 3px gray;
+   
+    margin: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.text5{
+    height: auto;
+    border: solid 3px gray;
+    
+ 
+    margin: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.text6{
+    height: auto;
+    border: solid 3px gray;
+   
+
+    margin: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}

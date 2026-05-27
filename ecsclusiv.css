@@ -1,0 +1,163 @@
+body{
+ 
+    background: url(756311769715147.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+   .kapital{
+    margin: auto;
+    margin-top: 40px;
+width: 750px;
+
+border-radius: 20px;
+    text-align: center;
+height: 120px;
+
+backdrop-filter: blur(5px); 
+    background: rgba(255, 255, 255, 0.5); 
+
+    font-family: "Abel", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 70px;
+  color: gray;
+  line-height: 2;
+}
+.container{
+    height: auto;
+    backdrop-filter: blur(5px);
+      background: rgba(255, 255, 255, 0.5); 
+    gap: 50PX;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 5%;
+    border-radius: 20px;
+    margin-top: 50px;
+   
+}
+.text{
+    height: auto;
+ 
+  font-family: "Abel", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+color: black;
+line-height: 2;
+padding: 5px;
+border-radius: 5px;
+
+}
+
+
+.photo1{
+    background: url(317.970.jpg) center;
+    height: 500px;
+   
+    padding: center;
+    padding-top: 0%;
+    margin-top: 0px;
+   border-radius: 20px;
+    border: solid 2px black;
+    }
+    .photo2{
+        background: url(87743b80b9293838d9ecdbd970afce29.jpg) center;
+        height: 520px;
+       
+        padding: center;
+        margin-top: 60px;
+        border-radius: 20px;
+        border: solid 2px black;
+        }
+ .photo3{
+     background: url(i.jfif) center;
+      height: 533px;
+          
+     padding: center;
+     margin-top: 60px;
+    border-radius: 20px;
+     border: solid 2px black;
+}   
+.text1{
+    height: auto;
+    border: solid 3px gray;
+  
+    margin-bottom: 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+.text1:hover{
+   opacity: 1.9;
+    transform: scale(1.1,1.1);
+    transition: 1s; 
+}
+.text2{
+    height: auto;
+    border: solid 3px gray;
+   
+    margin: 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+.text2:hover{
+   opacity: 1.9;
+    transform: scale(1.1,1.1);
+    transition: 1s; 
+}
+.text3{
+    height: auto;
+    border: solid 3px gray;
+   
+    margin: 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+.text3:hover{
+   opacity: 1.9;
+    transform: scale(1.1,1.1);
+    transition: 1s; 
+}
+.text4{
+    height: auto;
+    border: solid 3px gray;
+   
+    margin: 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+.text4:hover{
+   opacity: 1.9;
+    transform: scale(1.1,1.1);
+    transition: 1s; 
+}
+.text5{
+    height: auto;
+    border: solid 3px gray;
+    
+ 
+    margin: 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+.text5:hover{
+   opacity: 1.9;
+    transform: scale(1.1,1.1);
+    transition: 1s; 
+}
+.text6{
+    height: auto;
+    border: solid 3px gray;
+   
+
+    margin: 20px;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+.text6:hover{
+   opacity: 1.9;
+    transform: scale(1.1,1.1);
+    transition: 1s; 
+}
